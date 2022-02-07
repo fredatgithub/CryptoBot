@@ -6,4 +6,5 @@ The robot (bot) must follow the following rules:
 2. Never sell with a negative profit.
 3. Fix an initial profit.
 4. Always sell when the initial profit has been met.
-5. 
+5. Allow manual operation to better the bot.
+6. 
