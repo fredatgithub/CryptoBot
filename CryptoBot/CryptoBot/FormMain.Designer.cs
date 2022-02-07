@@ -162,7 +162,7 @@
       this.quitterToolStripMenuItem.Name = "quitterToolStripMenuItem";
       this.quitterToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
       this.quitterToolStripMenuItem.Text = "&Quitter";
-      this.quitterToolStripMenuItem.Click += new System.EventHandler(this.QuitterToolStripMenuItem_Click);
+      this.quitterToolStripMenuItem.Click += new System.EventHandler(this.QuitToolStripMenuItem_Click);
       // 
       // editionToolStripMenuItem
       // 
