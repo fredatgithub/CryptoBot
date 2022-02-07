@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\Enums\Condition.cs" />
+    <Compile Include="Business\Enums\Strategy.cs" />
+    <Compile Include="Business\Transaction.cs" />
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
